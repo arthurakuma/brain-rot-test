@@ -1,0 +1,17 @@
+^<svg
+width=40
+height=40
+viewBox=0 0 40 40
+xmlns=http://www.w3.org/2000/svg^>^<path
+d=M20 5c-5 0-9 4-9 9v12c0 5 4 9 9 9s9-4 9-9V14c0-5-4-9-9-9z
+fill=#FF6B6B/^>^<path
+d=M11 14c0-3 2-5 5-5s5 2 5 5v6c0 3-2 5-5 5s-5-2-5-5v-6z
+fill=#4ECDC4/^>^<path
+d=M29 14c0-3-2-5-5-5s-5 2-5 5v6c0 3 2 5 5 5s5-2 5-5v-6z
+fill=#45B7D1/^>^<path
+d=M16 18c1 0 2-1 2-2s-1-2-2-2-2 1-2 2 1 2 2 2z
+fill=#FFA07A/^>^<path
+d=M24 18c1 0 2-1 2-2s-1-2-2-2-2 1-2 2 1 2 2 2z
+fill=#FFA07A/^>^<path
+d=M20 22c1 0 2-1 2-2s-1-2-2-2-2 1-2 2 1 2 2 2z
+fill=#FFD700/^>^</svg^>
